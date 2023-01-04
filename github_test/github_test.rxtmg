@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="github_test"
+      id="5a27993e-6c8d-4d9b-9b54-955264410738"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="github_test"
+      id="5a27993e-6c8d-4d9b-9b54-955264410738"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

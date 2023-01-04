@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="152c2345-a1f9-49f1-8b96-3df2ed8e39fb"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="github_test">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="test"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="a90d8985-2710-4101-b1ae-1b4344859a00">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="2d687c1d-fd67-43fa-a18d-8d21cd5d5eae"
+	name="github_testRepository"
+	relativepath="github_testRepository.rxrep">
+		<codegen
+		classname="github_testRepository"
+		namespace="github_test">
+		</codegen>
+		<rootfolder
+		id="e1e09083-9a0e-4c49-999c-03e459171ff5"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

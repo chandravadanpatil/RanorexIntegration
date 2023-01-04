@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="github_testRepository"
+id="2d687c1d-fd67-43fa-a18d-8d21cd5d5eae">
+  <codegen
+  classname="github_testRepository"
+  namespace="github_test"/>
+  <rootfolder
+  name="Root"
+  id="e1e09083-9a0e-4c49-999c-03e459171ff5"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
