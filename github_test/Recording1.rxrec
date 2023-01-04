@@ -28,7 +28,7 @@ mode="Global">
 		<loggingrecorditem
 		category="User"
 		enabled="True"
-		message="testabc"
+		message="testabc123"
 		optional="False"
 		reportlevel="Info;20"
 		searchpropertyid="a90d8985-2710-4101-b1ae-1b4344859a00">

@@ -79,7 +79,7 @@ namespace github_test
 
                               Init();
 
-                              Report.Log(ReportLevel.Info, "User", "testabc", new RecordItemIndex(0));
+                              Report.Log(ReportLevel.Info, "User", "testabc123", new RecordItemIndex(0));
                               
                     }
 
