@@ -81,6 +81,8 @@ namespace github_test
 
                               Report.Log(ReportLevel.Info, "User", "testabc123", new RecordItemIndex(0));
                               
+                              Report.Log(ReportLevel.Info, "User", "updated", new RecordItemIndex(1));
+                              
                     }
 
 #region Image Feature Data

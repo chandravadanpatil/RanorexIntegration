@@ -1,0 +1,12 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution github_test[github_test[]]]&#xD;&#xA;Solution github_test\github_test\bin&#xD;&#xA;Solution github_test" />
+  <StartupProject value="{E196C77A-BCE4-49BB-BDB5-C9CDD7D039D0}" />
+</Properties>
